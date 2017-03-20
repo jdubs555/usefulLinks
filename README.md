@@ -1,2 +1,2 @@
 # usefulLinks
-some links to useful resources in this projects [wiki] (https://github.com/jdubs555/usefulLinks/wiki)
+some links to useful resources in the [wiki] (https://github.com/jdubs555/usefulLinks/wiki)
